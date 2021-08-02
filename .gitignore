@@ -1,0 +1,7 @@
+*.png
+*.pyc
+*.db
+*.sql
+*.sublime-workspace
+project_template/
+migrations/
